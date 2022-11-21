@@ -1,0 +1,17 @@
+{
+    "name": "5511934424010/catracasadmin",
+    "description": "projeto para administrar cadastro de alunos para utilizaçao das catracas",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aldemirojunior"
+        }
+    ],
+    "require": {}
+}
